@@ -1,0 +1,2 @@
+Hello, PHP beginner!
+Let's get started!
