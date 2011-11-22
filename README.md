@@ -1,4 +1,4 @@
-==Introduction==
+##Introduction
 Code I wrote when I was learning PHP at
 http://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/.
 
